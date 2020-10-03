@@ -19,7 +19,7 @@ button{
     background:-moz-linear-gradient( center top, #6184c5 5%, #235ba0 100% );
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#7892c2', endColorstr='#476e9e');
 	background-color:#6687c5;
-	-webkit-border-top-left-radius:40px;
+	-webkit-border-top-left-radius:30px;
 	-moz-border-radius-topleft:40px;
 	border-top-left-radius:40px;
 	-webkit-border-top-right-radius:40px;
