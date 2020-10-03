@@ -1,0 +1,1 @@
+print("Hi Im sorry but I have no idea what Im doing, I hope I can get good at this but right now im just trying to find my way with a first random file ;)")
